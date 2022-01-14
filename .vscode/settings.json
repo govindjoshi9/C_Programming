@@ -1,0 +1,8 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "*.py": "python",
+        "stdio.h": "c",
+        "stdlib.h": "c"
+    }
+}
